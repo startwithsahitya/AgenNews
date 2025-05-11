@@ -1,0 +1,18 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "title": "Breaking News: Flutter 4.0 Released!",
+    "description": "Flutter 4.0 brings a host of new features and improvements for cross-platform development, including better performance and new widgets.",
+    "genre": "Technology",
+    "date": "2025-05-11",
+    "source": "Flutter News"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+    "title": "Global Markets Rally Amid Economic Recovery",
+    "description": "Stock markets around the world are seeing a surge as economies recover from the pandemic, with tech stocks leading the way.",
+    "genre": "Finance",
+    "date": "2025-05-10",
+    "source": "MarketWatch"
+  }
+]
